@@ -1,0 +1,43 @@
+ 
+****************************************
+Report : area
+Design : up_down_counter
+Version: W-2024.09
+Date   : Sun Apr  5 05:01:22 2026
+****************************************
+
+Library(s) Used:
+
+    saed32rvt_ss0p7vn40c (File: /home/student/Downloads/Workshop/ref/lib/stdcell_rvt/saed32rvt_ss0p7vn40c.db)
+
+Number of ports:                            7
+Number of nets:                            19
+Number of cells:                           13
+Number of combinational cells:              9
+Number of sequential cells:                 4
+Number of macros/black boxes:               0
+Number of buf/inv:                          2
+Number of references:                       7
+
+Combinational area:                 23.889536
+Buf/Inv area:                        2.541440
+Noncombinational area:              28.464128
+Macro/Black Box area:                0.000000
+Net Interconnect area:               4.156558
+
+Total cell area:                    52.353665
+Total area:                         56.510222
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  --------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-    Noncombi-  Black-
+                                  Total      Total    national  national   boxes   Design
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+up_down_counter                     52.3537    100.0   23.8895    28.4641  0.0000  up_down_counter
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+Total                                                  23.8895    28.4641  0.0000
+
+1

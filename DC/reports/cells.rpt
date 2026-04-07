@@ -1,0 +1,46 @@
+ 
+****************************************
+Report : cell
+Design : up_down_counter
+Version: W-2024.09
+Date   : Sun Apr  5 05:01:22 2026
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U16                       INVX0_RVT       saed32rvt_ss0p7vn40c
+                                                          1.270720  
+U17                       AO22X1_RVT      saed32rvt_ss0p7vn40c
+                                                          2.541440  
+U18                       HADDX1_RVT      saed32rvt_ss0p7vn40c
+                                                          3.303872  r
+U19                       INVX1_RVT       saed32rvt_ss0p7vn40c
+                                                          1.270720  
+U20                       OA222X1_RVT     saed32rvt_ss0p7vn40c
+                                                          3.303872  
+U21                       HADDX1_RVT      saed32rvt_ss0p7vn40c
+                                                          3.303872  r
+U22                       AO22X1_RVT      saed32rvt_ss0p7vn40c
+                                                          2.541440  
+U23                       OA221X1_RVT     saed32rvt_ss0p7vn40c
+                                                          3.049728  
+U24                       HADDX1_RVT      saed32rvt_ss0p7vn40c
+                                                          3.303872  r
+count_reg[0]              DFFARX1_RVT     saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+count_reg[1]              DFFARX1_RVT     saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+count_reg[2]              DFFARX1_RVT     saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+count_reg[3]              DFFARX1_RVT     saed32rvt_ss0p7vn40c
+                                                          7.116032  n
+--------------------------------------------------------------------------------
+Total 13 cells                                            52.353665
+1
